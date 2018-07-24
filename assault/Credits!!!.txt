@@ -1,0 +1,15 @@
+CREDITS:
+Model: Soul_Slayer
+Skin: Thanez
+Animations: Hav0c
+Sounds: Vunsunta / Valve
+Compile: A082
+
+**********************************************************************
+
+After modified by R0ad-RuN3r
+
+www.RN-ACostum.star-ac.org
+
+**********************************************************************
+
